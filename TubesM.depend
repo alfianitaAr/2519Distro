@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1555814765 source:e:\coolyeah\semester 2\struktur data (std)\tubes\tubesm\main.cpp
+	<iostream>
+	"toko.h"
+	"produk.h"
+	"nota.h"
+
+1555814908 source:e:\coolyeah\semester 2\struktur data (std)\tubes\tubesm\nota.cpp
+	"nota.h"
+	"toko.h"
+	"produk.h"
+
+1555917867 e:\coolyeah\semester 2\struktur data (std)\tubes\tubesm\nota.h
+	"toko.h"
+	"produk.h"
+	<iostream>
+
+1555917867 e:\coolyeah\semester 2\struktur data (std)\tubes\tubesm\toko.h
+	<iostream>
+
+1555917867 e:\coolyeah\semester 2\struktur data (std)\tubes\tubesm\produk.h
+	<iostream>
+
+1555814908 source:e:\coolyeah\semester 2\struktur data (std)\tubes\tubesm\produk.cpp
+	"produk.h"
+
+1555814908 source:e:\coolyeah\semester 2\struktur data (std)\tubes\tubesm\toko.cpp
+	"toko.h"
+
+1555917676 source:e:\coolyeah\semester 2\struktur data (std)\tubes\tubesm\submain.cpp
+	"subMain.h"
+
+1555917676 e:\coolyeah\semester 2\struktur data (std)\tubes\tubesm\submain.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"nota.h"
+	"produk.h"
+	"toko.h"
+
+1555814910 source:c:\users\muhammad rantau\downloads\tubesgooodmantap\tubesm\nota.cpp
+	"nota.h"
+	"toko.h"
+	"produk.h"
+
+1555917868 c:\users\muhammad rantau\downloads\tubesgooodmantap\tubesm\nota.h
+	"toko.h"
+	"produk.h"
+	<iostream>
+
+1556080100 c:\users\muhammad rantau\downloads\tubesgooodmantap\tubesm\toko.h
+	<iostream>
+	"produk.h"
+
+1556029426 c:\users\muhammad rantau\downloads\tubesgooodmantap\tubesm\produk.h
+	<iostream>
+
+1556039797 source:c:\users\muhammad rantau\downloads\tubesgooodmantap\tubesm\produk.cpp
+	"produk.h"
+
+1556080938 source:c:\users\muhammad rantau\downloads\tubesgooodmantap\tubesm\main.cpp
+	<iostream>
+	<stdlib.h>
+	"toko.h"
+	"produk.h"
+	"nota.h"
+
+1556092587 source:c:\users\muhammad rantau\downloads\tubesgooodmantap\tubesm\toko.cpp
+	"toko.h"
+
+1556335675 source:e:\coolyeah\semester 2\struktur data (std)\tubes\tubesgooodmantap\tubesm\main.cpp
+	<iostream>
+	<stdlib.h>
+	"toko.h"
+	"produk.h"
+	"nota.h"
+
+1556080100 e:\coolyeah\semester 2\struktur data (std)\tubes\tubesgooodmantap\tubesm\toko.h
+	<iostream>
+	"produk.h"
+
+1556029426 e:\coolyeah\semester 2\struktur data (std)\tubes\tubesgooodmantap\tubesm\produk.h
+	<iostream>
+
+1555917868 e:\coolyeah\semester 2\struktur data (std)\tubes\tubesgooodmantap\tubesm\nota.h
+	"toko.h"
+	"produk.h"
+	<iostream>
+
+1555814910 source:e:\coolyeah\semester 2\struktur data (std)\tubes\tubesgooodmantap\tubesm\nota.cpp
+	"nota.h"
+	"toko.h"
+	"produk.h"
+
+1556039797 source:e:\coolyeah\semester 2\struktur data (std)\tubes\tubesgooodmantap\tubesm\produk.cpp
+	"produk.h"
+
+1556335795 source:e:\coolyeah\semester 2\struktur data (std)\tubes\tubesgooodmantap\tubesm\toko.cpp
+	"toko.h"
+
